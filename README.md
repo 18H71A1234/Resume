@@ -62,7 +62,7 @@ I want to be a software developer in 'Python'
  
 - hardwork
 
-### weaknesses
+### weaknesses 
  - can't say No to anything easily
  
 ## Achievements
